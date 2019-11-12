@@ -1,0 +1,12 @@
+.navbar-controller {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar-controller-item {
+    display: inline-block;
+    color: white;
+    cursor: pointer;
+}
+
+

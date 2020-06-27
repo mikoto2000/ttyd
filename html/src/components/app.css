@@ -5,3 +5,7 @@
     height: 100%;
 }
 
+.root #terminal-container .terminal {
+    padding-bottom: 24px;
+}
+
